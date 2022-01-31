@@ -1,4 +1,4 @@
-# pagination_app
+# Flutter Pagination
 
 A new Flutter project.
 
